@@ -1,3 +1,10 @@
+<script setup>
+import theHeader from "./components/theHeader.vue";
+</script>
+
 <template>
-  <RouterView />
+ <div class="container mx-auto">
+   <theHeader />
+   <RouterView />
+ </div>
 </template>
