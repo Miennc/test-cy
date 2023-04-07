@@ -26,7 +26,7 @@ const settings = ref({
   <div class="mt-[3rem] container mx-auto">
     <div class="grid grid-cols-2  ">
       <div class="col-span-1">
-        <img src="https://wp.dreamitsolution.net/itsolve/wp-content/uploads/2020/06/about-1.png" alt="">
+        <img src="../assets/images/about-1.png" alt="">
       </div>
       <div class="col-span-1">
         <div>
