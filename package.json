@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vue3-carousel": "^0.2.16",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
