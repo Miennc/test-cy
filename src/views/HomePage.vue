@@ -159,7 +159,7 @@ const settings = ref({
             <div class="flex justify-center ">
               <div class="w-[120px] h-[120px] relative">
                 <img
-                    src="		https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service3.png"
+                    src="https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service3.png"
                     alt="">
                 <div class="absolute top-[20%] right-[40%]">
                   <i class="fas fa-shield-alt text-[#FFFFFF] text-5xl"></i>
@@ -191,7 +191,7 @@ const settings = ref({
             <div class="flex justify-center ">
               <div class="w-[120px] h-[120px] relative">
                 <img
-                    src="			https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service1.png"
+                    src="https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service1.png"
                     alt="">
                 <div class="absolute top-[20%] right-[40%]">
                   <i class="fas fa-chart-pie text-[#FFFFFF] text-5xl"></i>
@@ -222,7 +222,7 @@ const settings = ref({
           <div class="mx-[20px] my-[2rem]">
             <div class="flex justify-center ">
               <div class="w-[120px] h-[120px] relative">
-                <img src="	https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service5.png"
+                <img src="https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service5.png"
                      alt="">
                 <div class="absolute top-[20%] right-[40%]">
                   <i class="fas fa-comment text-[#FFFFFF] text-5xl"></i>
@@ -253,7 +253,7 @@ const settings = ref({
           <div class="mx-[20px] my-[2rem]">
             <div class="flex justify-center ">
               <div class="w-[120px] h-[120px] relative">
-                <img src="	https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service6.png"
+                <img src="https://wp.dreamitsolution.net/itsolve/wp-content/themes/itsolve/assets/images/service6.png"
                      alt="">
                 <div class="absolute top-[20%] right-[40%]">
                   <i class="fas fa-calendar text-[#FFFFFF] text-5xl"></i>
@@ -269,7 +269,7 @@ const settings = ref({
               know.
             </div>
             <div class="text-center cursor-pointer">
-              <a class=" text-indigo-500 inline-flex items-center">Discover Now
+              <a class="text-indigo-500 inline-flex items-center">Discover Now
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                      class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
